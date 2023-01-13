@@ -4,9 +4,9 @@
     "version": "2023.3.1",
     "uuid": "1b42324f-17c6-4875-8e77-1c312bc8c786",
     "mavenUrls": [
-        "https://3015rangerrobotics.github.io/pathplannerlib/repo"
+        "https://wpilib.gradescout.me/pathplannerlib/repo"
     ],
-    "jsonUrl": "https://3015rangerrobotics.github.io/pathplannerlib/PathplannerLib.json",
+    "jsonUrl": "https://wpilib.gradescout.me/pathplannerlib/PathplannerLib.json",
     "javaDependencies": [
         {
             "groupId": "com.pathplanner.lib",
