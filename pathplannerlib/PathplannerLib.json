@@ -4,9 +4,9 @@
     "version": "2023.4.3",
     "uuid": "1b42324f-17c6-4875-8e77-1c312bc8c786",
     "mavenUrls": [
-        "https://wpilib.gradescout.me/pathplannerlib/repo"
+        "https://wpilib.pranavt.me/pathplannerlib/repo"
     ],
-    "jsonUrl": "https://wpilib.gradescout.me/pathplannerlib/PathplannerLib.json",
+    "jsonUrl": "https://wpilib.pranavt.me/pathplannerlib/PathplannerLib.json",
     "javaDependencies": [
         {
             "groupId": "com.pathplanner.lib",
